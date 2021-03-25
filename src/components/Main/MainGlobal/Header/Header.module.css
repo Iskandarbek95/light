@@ -1,0 +1,44 @@
+.header {
+    display: flex;
+    flex-direction: row;
+}
+
+.header .headerTitle {
+    width: 568px;
+}
+
+.header .headerTitle h1 {
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 40px;
+    margin-top: 180px;
+    color: rgba(83, 83, 83, 1);
+}
+
+.header .headerTitle h1 span {
+    color: #ffc94f;
+}
+
+.header .headerTitle button {
+    width: 197px;
+    height: 44px;
+    background: #ffc94f;
+    border-radius: 2px;
+    border: none;
+    font-weight: bold;
+    font-size: 14px;
+    color: #535353;
+    margin-top: 40px;
+}
+
+.header .headerTitle p {
+    font-weight: normal;
+    line-height: 22px;
+    font-size: 14px;
+    color: #535353;
+    margin-top: 30px;
+}
+
+.header .headerImg {
+    width: 640px;
+}

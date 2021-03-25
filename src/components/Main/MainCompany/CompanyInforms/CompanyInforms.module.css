@@ -1,0 +1,21 @@
+.comInfItems {
+    border-bottom: 1px solid rgba(128, 128, 128, 0.507);
+    padding: 20px 0;
+}
+
+.comInfItems a {
+    padding: 20px 20px;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 16px;
+    color: #535353;
+    background-color: yellow;
+}
+
+.comInfText p {
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 24px;
+    color: #4b4949;
+    padding-top: 20px ;
+}

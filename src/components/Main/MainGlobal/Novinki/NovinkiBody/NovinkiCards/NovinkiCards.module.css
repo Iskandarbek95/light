@@ -1,0 +1,84 @@
+.novinkiCards {
+    display: flex;
+    flex-direction: column;
+    height: 550px;
+    width: 300px;
+    border: 1px solid #50505050;
+}
+
+.titleBox {
+    height: 30px;
+    width: 50px;
+    background-color: #ffc94f;
+    padding: 0px 15px;
+    font-weight: 600;
+    font-size: 16px;
+    color: #3d4f64;
+}
+
+.bodyImg {
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bodyTexts {
+    padding: 0 25px;
+}
+
+.bodyTexts h5 {
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 22px;
+    color: #535353;
+    padding-bottom: 20px;
+}
+
+.texts {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.texts .radius {
+    height: 8px;
+    width: 8px;
+    border-radius: 50%;
+    background-color: rgba(255, 201, 79, 1);
+    margin-right: 10px;
+
+}
+
+.texts .textsValue {
+    width: 250px;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 21px;
+    color: #535353;
+}
+
+.value {
+    font-weight: bold;
+    font-size: 20px;
+    color: #535353;
+    margin-top: 20px;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: row;
+    margin-top: auto;
+}
+
+.buttons button {
+    color: white;
+    background-color: #3D4F64;
+    border: none;
+    padding: 15px 80px;
+}
+
+.buttons .plus {
+    margin: 10px 25px;
+    font-size: 25px;
+}

@@ -1,0 +1,57 @@
+.katalog {
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+
+.sectionTitle {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 60px 0;
+}
+
+.katalogBody {
+    display: flex;
+    flex-direction: row;
+}
+
+.katalogInform {
+    width: 358px;
+    padding: 0 40px 0 20px;
+}
+
+.katalogInform__title h4 {
+    font-weight: bold;
+    font-size: 16px;
+    color: #ffc94f;
+}
+
+.katalogInform__title p {
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 22px;
+    color: #535353;
+    margin-top: 10px;
+}
+
+.katalogInform button {
+    font-weight: bold;
+    font-size: 14px;
+    color: #ffffff;
+    background-color: #3d4f64;
+    padding: 15px 85px;
+    border: none;
+    margin: 40px 0;
+}
+
+.katalogInform__items h4 {
+    font-weight: bold;
+    font-size: 14px;
+    color: #535353;
+    border-bottom: 1px solid #EFEFEF;
+    padding: 20px 0;
+}
+
+.katalogImg {
+    width: 800px;
+}

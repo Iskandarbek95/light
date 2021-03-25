@@ -1,0 +1,38 @@
+.container {
+    background-color: rgba(12, 5, 55, 1);
+    position: fixed;
+    width: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    
+}
+
+.nav {
+    width: 1280px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-weight: 500;
+    font-size: 14px;
+    background-color: rgba(12, 5, 55, 1);
+    color: white;
+    margin: 0 auto;
+}
+
+.logo {
+    margin-right: 70px;
+}
+
+.navRight {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 140px;
+}
+
+.navRight .navNumber {
+    border: 1px solid white;
+    border-radius: 3px;
+    padding: 8px 20px;
+    margin-left: 20px;
+}

@@ -1,0 +1,46 @@
+.main {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding-top: 70px;
+}
+
+.katalogLinks a {
+    font-weight: 500;
+    font-size: 14px;
+    text-decoration: none;
+    padding: 10px 20px;
+    margin-right: 20px;
+    border: 1px solid rgba(128, 128, 128, 0.541);
+    color: #535353;
+}
+
+.katalogItems {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 50px 0;
+}
+
+.katIteRegular {
+    height: 400px;
+    width: 300px;
+    background-color: yellow;
+}
+
+.katIteValue {
+    height: 1000px;
+    width: 950px;
+}
+
+.new {
+    font-size: 18px;
+    line-height: 40px;
+    color: #535353;
+    margin: 10px 0;
+}
+
+.newItems {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

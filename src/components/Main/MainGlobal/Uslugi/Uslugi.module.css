@@ -1,0 +1,20 @@
+.uslugi {
+    margin-bottom: 50px;
+}
+
+.uslugiBody {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 15px 0;    
+}
+
+.uslugiItemImg {
+    margin: 0 50px 0 100px;
+}
+
+.uslugiItemText {
+    font-weight: bold;
+    font-size: 16px;
+    color: #535353;
+}

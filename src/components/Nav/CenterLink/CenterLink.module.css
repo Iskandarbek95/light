@@ -1,0 +1,13 @@
+.centerlink {
+    display: flex;
+}
+
+.centerlink .li {
+    margin: 0 15px;
+    list-style-type: none;
+}
+
+.centerlink .li a {
+    text-decoration: none;
+    color: white;
+}

@@ -1,0 +1,22 @@
+.resheniy {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 40px 0;
+}
+
+.resheniyItems {
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+    padding-right: 25px;
+}
+
+.resheniyItems a {
+    font-weight: bold;
+    font-size: 14px;
+    text-decoration: none;
+    color: #535353;
+    padding: 15px;
+    background-color: yellow;
+}

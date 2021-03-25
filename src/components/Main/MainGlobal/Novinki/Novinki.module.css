@@ -1,0 +1,16 @@
+.novinki {
+    margin-bottom: 60px;
+}
+
+.button {
+    margin: 80px 510px;
+}
+
+.button button {
+    background-color: #f3c650;
+    padding: 15px 60px;
+    border: none;
+    font-weight: bold;
+    font-size: 14px;
+    color: #535353;
+}
